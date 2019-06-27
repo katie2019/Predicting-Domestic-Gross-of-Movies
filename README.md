@@ -1,6 +1,6 @@
 Predicting Domestic Gross Of Movies is my second project at Metis.
 
-In this project, I applied regression algorithms:
+In this project, I applied some regression algorithms:
 
 • Scraped data from boxofficemojo.com by using BeautifulSoup
 
